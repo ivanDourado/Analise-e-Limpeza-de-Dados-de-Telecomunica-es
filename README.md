@@ -23,11 +23,19 @@ Dicionario.xlsx: Fornece um dicionário de dados, explicando cada uma das variá
 # Módulos Python:
 
 estrategia1.py, estrategia2.py, estrategia3.py: Scripts Python utilizados como módulos para implementar diferentes estratégias de limpeza e análise de dados.
-Tecnologias Utilizadas:
+
+# Tecnologias Utilizadas:
+
 Python: Linguagem principal para análise e limpeza de dados.
+
 Jupyter Notebook: Ambiente de desenvolvimento interativo para documentação e execução do código.
+
 Pandas: Biblioteca para manipulação e análise de dados.
+
 Matplotlib/Seaborn: Bibliotecas para visualização de dados.
-Resultados Esperados:
+
+# Resultados Esperados:
+
 Conjunto de Dados Limpo: Resultado final é um conjunto de dados limpo, pronto para análises subsequentes.
+
 Relatório de Análise: Insights sobre os dados, incluindo problemas identificados e soluções aplicadas durante o processo de limpeza.
